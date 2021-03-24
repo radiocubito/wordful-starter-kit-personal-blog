@@ -1,5 +1,7 @@
 # Wordful Starter Kit: Personal Blog
 
+A quick start for your new personal blog!
+
 ## [Visit the RadioCúbito Wordful documentation &rarr;](https://wordful.radiocubito.com/docs)
 
 ## Contributing
