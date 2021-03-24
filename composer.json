@@ -1,12 +1,13 @@
 {
-    "name": "laravel/laravel",
+    "name": "radiocubito/wordful-starter-kit-personal-blog",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Wordful",
     "keywords": [
-        "framework",
+        "wordful",
+        "blog",
+        "starter",
         "laravel"
     ],
-    "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
         "fideloper/proxy": "^4.4",
