@@ -8,7 +8,7 @@ A quick start for your new personal blog!
 
 ## Installation
 
-[Check out our documentation](https://wordful.radiocubito.com/docs)
+[Check out our documentation](https://wordful.radiocubito.com/docs/personal-blog-starter-kit)
 
 ## Contributing
 
