@@ -16,7 +16,7 @@ class WordfulServiceProvider extends ServiceProvider
     {
         Gate::define('viewWordful', function ($user) {
             return in_array($user->email, [
-                 'oliver@radiocubito.com',
+                 config('site.owner'),
              ]);
         });
     }
