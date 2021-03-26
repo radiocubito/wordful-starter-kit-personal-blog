@@ -31,6 +31,10 @@
             </article>
         </section>
 
+        <section class="mt-12">
+            @include('_subscribe')
+        </section>
+
         @include('_footer')
     </main>
 </x-layout>

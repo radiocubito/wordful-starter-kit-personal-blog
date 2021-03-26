@@ -18,6 +18,10 @@
         @include('_navigation')
 
         <section class="mt-12">
+            @include('_subscribe')
+        </section>
+
+        <section class="mt-12">
             <div class="grid gap-6 lg:gap-y-6">
                 @foreach ($posts as $post)
                     <div class="py-6 lg:py-10">
