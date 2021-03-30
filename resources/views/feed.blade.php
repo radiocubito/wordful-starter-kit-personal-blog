@@ -17,8 +17,8 @@
             <![CDATA[{!! $post->html !!}]]>
         </content>
         <author>
-            <name> <![CDATA[{{ $post->author->name }}]]></name>
-            <email> <![CDATA[{{ $post->author->email }}]]></email>
+            <name><![CDATA[{{ $post->author->name }}]]></name>
+            <email><![CDATA[{{ $post->author->email }}]]></email>
         </author>
     </entry>
     @endforeach
