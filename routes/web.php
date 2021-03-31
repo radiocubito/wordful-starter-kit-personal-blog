@@ -11,8 +11,6 @@ Route::get('/', function () {
     ]);
 })->name('home');
 
-require __DIR__.'/auth.php';
-
 Route::get('/feed', function () {
     $content = view('feed', [
         'owner' => User::whereEmail(config('site.owner'))->first(),
