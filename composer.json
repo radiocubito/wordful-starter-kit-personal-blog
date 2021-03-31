@@ -11,7 +11,7 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.12",
         "laravel/tinker": "^2.5",
-        "radiocubito/laravel-wordful": "^0.10.1"
+        "radiocubito/laravel-wordful": "^0.11.0"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
